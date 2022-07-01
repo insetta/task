@@ -14,6 +14,8 @@ Download the script, and use *chmod 700 numbers.sh* to make it executable.
 
 Just run the sript, and it will give you a random array of numbers from 1 to 10 in one line.
 
+#### Example: 4 1 2 7 3 5 10 6 8 9
+
 ## Limitations:
 
 There is currently no user input to use it with other numbers.
