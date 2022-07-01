@@ -17,3 +17,7 @@ Just run the sript, and it will give you a random array of numbers from 1 to 10 
 ## Limitations:
 
 There is currently no user input to use it with other numbers.
+
+## Bugs:
+
+There are currently no bugs known.
