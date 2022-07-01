@@ -23,3 +23,12 @@ There is currently no user input to use it with other numbers.
 ## Bugs:
 
 There are currently no bugs known.
+
+------------------------------------------
+
+# Task 2
+
+As SSL encryption/decryption is very CPU intensive task, I would most certainly have an eye on CPU usage as well as the network.
+
+For the CPU, monitoring the avarage load and the iowait is a must.
+Network wise, using nstat -a and netstat can give me an overview of the open connections and number of failures.
